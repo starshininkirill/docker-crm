@@ -1,0 +1,28 @@
+{
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build"
+    },
+    "devDependencies": {
+        "@popperjs/core": "^2.11.8",
+        "autoprefixer": "^10.4.20",
+        "axios": "^1.6.4",
+        "laravel-vite-plugin": "^1.0",
+        "postcss": "^8.4.40",
+        "sass": "^1.56.1",
+        "tailwindcss": "^3.4.7",
+        "vite": "^5.0"
+    },
+    "dependencies": {
+        "@fancyapps/ui": "^5.0.36",
+        "@inertiajs/vue3": "^2.0.0",
+        "@tinymce/tinymce-vue": "^6.1.0",
+        "@vitejs/plugin-vue": "^5.1.4",
+        "@vuepic/vue-datepicker": "^11.0.1",
+        "tinymce": "^7.6.1",
+        "vue-select": "^4.0.0-beta.1",
+        "ziggy-js": "^2.4.2"
+    }
+}
